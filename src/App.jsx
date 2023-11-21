@@ -6,7 +6,7 @@ import Form from "./pages/Form";
 
 function App() {
   return (
-    <div className="container">
+    <div>
       <Form />
     </div>
   );
